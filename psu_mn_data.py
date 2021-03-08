@@ -2,8 +2,8 @@
 
 raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
             'value': {
-    L:101: {so: 0, pl: [{cd: "9", cn: 5, tc: 557}]}
-'L:103': {so: 0, pl: [{cd: "9", cn: 0, tc: 519}]}
+    'L:101': {so: 0, pl: [{cd: "9", cn: 5, tc: 557}]}
+ 'L:103': {so: 0, pl: [{cd: "9", cn: 0, tc: 519}]}
 'L:105': {so: 0, pl: [{cd: "9", cn: 0, tc: 656}]}
 'L:107': {so: 0, pl: [{cd: "3", cn: 0, tc: 537}]}
 'L:108': {so: 0, pl: [{cd: "3", cn: 0, tc: 701}]}
