@@ -144,4 +144,5 @@ raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
     'LG:3L': {so: 0, pl: [{cd: "24", cn: 4, tc: 4}]},
 
     'LG:27'L: {so: 0, pl: [{cd: "24", cn: 4, tc: 4}]},
+    }}
 
