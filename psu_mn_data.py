@@ -1,3 +1,4 @@
+{
 raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
             'value': {
             L:101: {so: 0, pl: [{cd: "9", cn: 202, tc: 557}]},
