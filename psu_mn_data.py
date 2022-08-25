@@ -1,5 +1,5 @@
-{
-raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
+[
+{raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
             'value': {
             L:101: {so: 0, pl: [{cd: "9", cn: 202, tc: 557}]},
             L:103: {so: 0, pl: [{cd: "9", cn: 194, tc: 519}]},
@@ -76,3 +76,4 @@ raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
             U:245: {so: 0, pl: [{cd: "6", cn: 323, tc: 529}, {cd: "10", cn: 37, tc: 120}]},
             U:246: {so: 0, pl: [{cd: "7", cn: 123, tc: 676}]}],
 }}
+ ]
