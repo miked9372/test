@@ -1,6 +1,6 @@
 # raw data as of 5:01pm EST on 10/31
 
-raw_data = {'status': {cd: 0, mg: 'successful', tp: A},
+raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
             'value': {
             L:101: {so: 0, pl: [{cd: "9", cn: "202", tc: 557}]},
             L:103: {so: 0, pl: [{cd: "9", cn: 194, tc: 519}]},
