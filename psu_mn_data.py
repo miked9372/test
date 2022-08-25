@@ -1,10 +1,8 @@
-# raw data as of 5:01pm EST on 10/31
-
 raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
             'value': {
-            L:101: {so: 0, pl: [{cd: "9", cn: "202", tc: 557}]},
-            L:103: {so: 0, pl: [{cd: "9", cn: "194", tc: 519}]},
-            L:105: {so: 0, pl: [{cd: "9", cn: "169", tc: 656}]},
+            L:101: {so: 0, pl: [{cd: "9", cn: 202, tc: 557}]},
+            L:103: {so: 0, pl: [{cd: "9", cn: 194, tc: 519}]},
+            L:105: {so: 0, pl: [{cd: "9", cn: 169, tc: 656}]},
             L:107: {so: 0, pl: [{cd: "13", cn: "0", tc: 28}, {cd: "3", cn: 136, tc: 537}]},
             L:108: {so: 0, pl: [{cd: "3", cn: 17, tc: 701}, {cd: "13", cn: 0, tc: 6}]},
             L:109: {so: 0, pl: [{cd: "2", cn: 49, tc: 534}, {cd: "12", cn: 0, tc: 12}, {cd: "3", cn: 0, tc: 216}]},
@@ -77,4 +75,3 @@ raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
             U:245: {so: 0, pl: [{cd: "6", cn: 323, tc: 529}, {cd: "10", cn: 37, tc: 120}]},
             U:246: {so: 0, pl: [{cd: "7", cn: 123, tc: 676}]}],
 }}
-]
