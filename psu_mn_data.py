@@ -1,6 +1,5 @@
-# raw data as of 5:01pm EST on 10/31
 
-raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
+{'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
     'L:101': {'so': 0, 'pl': [{'cd': '9', 'cn': 116, 'tc': 556}]},
     'L:103': {'so': 0, 'pl': [{'cd': '9', 'cn': 34, 'tc': 519}]},
     'L:105': {'so': 0, 'pl': [{'cd': '9', 'cn': 92, 'tc': 656}]},
@@ -138,5 +137,5 @@ raw_data = {'status': {'cd': 0, 'mg': 'successful', 'tp': 'A'},
               'tc': 172}]},
     'U:245': {'so': 0, 'pl': [{'cd': '6', 'cn': 0, 'tc': 534},
               {'cd': '10', 'cn': 24, 'tc': 120}]},
-    'U:220': {'so': 0, 'pl': [{'cd': '6', 'cn': 51, 'tc': 460}]},
-    }}
+    'U:220': {'so': 0, 'pl': [{'cd': '6', 'cn': 51, 'tc': 460}]}
+  
